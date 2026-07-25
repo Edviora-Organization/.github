@@ -1,30 +1,30 @@
 <div align="center">
 
-<img src="https://github.com/Edviora-Organization/.github/blob/main/logo.png" width="170"/>
+<img src="https://github.com/Edviora-Organization/.github/blob/main/logo.png" width="170" alt="Edviora Logo"/>
 
-<h1 align="center">🎓 Edviora</h1>
+# Edviora
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&width=900&lines=AI-Powered+School+ERP;Institution+Management+Platform;Built+for+Modern+Educational+Institutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&width=900&lines=AI-Powered+School+ERP;Institution+Management+Platform;Built+for+Modern+Educational+Institutions" alt="Typing Animation"/>
 </p>
 
 <p align="center">
-An intelligent cloud-based ERP platform designed to transform educational institutions through automation, AI, analytics, and seamless collaboration.
+An intelligent cloud-based ERP platform that unifies academic management, administration, finance, communication, and artificial intelligence into a secure, scalable, and modern ecosystem for educational institutions.
 </p>
 
 <p align="center">
 
 <a href="https://edviora.online">
-<img src="https://img.shields.io/badge/🌐_Website-edviora.online-2563EB?style=for-the-badge">
+<img src="https://img.shields.io/badge/Website-edviora.online-2563EB?style=for-the-badge">
 </a>
 
 <img src="https://img.shields.io/badge/Version-v1.0-success?style=for-the-badge">
 
 <img src="https://img.shields.io/badge/Status-Production-success?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/Cloud-Ready-blue?style=for-the-badge">
-
 <img src="https://img.shields.io/badge/AI-Powered-purple?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Cloud-Ready-blue?style=for-the-badge">
 
 <img src="https://img.shields.io/badge/Responsive-Yes-orange?style=for-the-badge">
 
@@ -32,405 +32,298 @@ An intelligent cloud-based ERP platform designed to transform educational instit
 
 </p>
 
----
-
-##  Overview
-
-**Edviora** is a next-generation **AI-powered School ERP platform** built to simplify and automate every aspect of educational institution management.
-
-Instead of using multiple disconnected systems for attendance, academics, fee collection, payroll, communication, transport, analytics, and administration, Edviora integrates everything into **one intelligent cloud platform**.
-
-Designed for **schools, colleges, coaching institutes, and educational organizations**, Edviora provides a secure, scalable, and modern digital ecosystem that reduces administrative effort while enhancing learning outcomes.
+</div>
 
 ---
 
-## Vision
+# Table of Contents
 
-Edviora is building a modern platform for educational institutions that simplifies academic and administrative operations through intelligent software.
-
-Our goal is to provide a unified platform that combines learning, administration, communication, and analytics into a single, secure, and scalable ecosystem.
-
-Core principles:
-
-- Artificial Intelligence
-- Data-Driven Insights
-- Cloud-Native Infrastructure
-- Secure Authentication
-- Modern User Experience
-- Intelligent Automation
-
-Overview
-Vision
-Architecture
-Workflow
-Technology Stack
-
-Platform Capabilities
-
- Academic Services
-Student Information • Attendance • Curriculum • Report Cards • AI Study Hub
-
- Financial Services
-Fee Management • Payroll • Billing • Financial Reports
-
- AI & Intelligence
-Chanakya AI • AI Assistant • Recommendations • Analytics
-
- Administration
-Teacher Management • Multi-School • Timetable • Transport • Notifications
-
-Security
-Deployment
-Getting Started
-
-#  Why Choose Edviora?
-
-✅ Modern Dashboard
-
-✅ AI Powered
-
-✅ Enterprise Architecture
-
-✅ Cloud Ready
-
-✅ Secure Authentication
-
-✅ Responsive Design
-
-✅ Mobile Friendly
-
-✅ Role Based Access
-
-✅ Fast Performance
-
-✅ Intelligent Analytics
-
-✅ Easy to Use
-
-✅ Scalable Infrastructure
+- Overview
+- Vision
+- User Roles
+- Platform Architecture
+- Platform Workflow
+- Platform Layers
+- Core Modules
+- AI Workflow
+- Authentication & Authorization
+- Platform Capabilities
+- Overall System Workflow
+- Deployment Architecture
+- Application Gallery
+- Performance
+- Security
+- Frequently Asked Questions
+- Contact
+- Chanakya AI
+- License
 
 ---
 
-#  User Roles
+# Overview
 
-Edviora provides customized dashboards and permissions for every stakeholder.
+Edviora is a modern **AI-powered School ERP and Institution Management Platform** designed to simplify and automate academic, administrative, and operational workflows through a unified cloud-based architecture.
 
-| Role | Description |
-|------|-------------|
-|  Administrator | Complete institution management |
-|  Teacher | Attendance, Reports, Classes |
-|  Student | Learning Resources, Fees, Attendance |
-|  Parent | Child Progress & Notifications |
-|  Accountant | Fee Collection & Payroll |
-|  Transport Manager | Vehicle & Route Management |
+Instead of relying on multiple disconnected systems for attendance, examinations, fee collection, payroll, communication, transportation, analytics, and institutional administration, Edviora brings every essential service together into a single intelligent platform.
+
+Built for **schools, colleges, universities, coaching institutes, and educational organizations**, the platform emphasizes automation, scalability, security, and an exceptional user experience.
 
 ---
 
+# Vision
 
-## 🏗 Platform Architecture
+Our vision is to build a modern digital ecosystem that enables educational institutions to operate more efficiently through intelligent software and data-driven decision making.
+
+Edviora combines administration, learning, communication, analytics, and artificial intelligence into one integrated platform that scales with institutions of every size.
+
+### Core Principles
+
+| Principle | Description |
+|-----------|-------------|
+| Artificial Intelligence | Intelligent automation across institutional workflows |
+| Cloud-Native Architecture | Secure, scalable, and highly available infrastructure |
+| Data-Driven Insights | Actionable analytics for better decision making |
+| Security First | Enterprise-grade authentication and authorization |
+| Modern User Experience | Responsive and intuitive interface across devices |
+| Operational Excellence | Streamlined administration with reduced manual effort |
+
+---
+
+# User Roles
+
+Edviora provides dedicated dashboards and role-based permissions for every stakeholder.
+
+| Role | Responsibilities |
+|------|------------------|
+| Administrator | Institution configuration and operational management |
+| Teacher | Attendance, academics, examinations, classroom management |
+| Student | Learning resources, attendance, assignments, academic records |
+| Parent | Student progress tracking and communication |
+| Accountant | Fee collection, payroll, financial reporting |
+| Transport Manager | Vehicle allocation, route planning, transport monitoring |
+
+---
+
+# Platform Architecture
 
 <p align="center">
-  <img src="../images/architecture.svg" alt="Edviora Platform Architecture" width="100%">
-</p>
-
-## ⚙️ Platform Workflow
-
-<p align="center">
-  <img src="../images/workflow.png"
-       alt="Edviora Platform Workflow"
-       width="100%">
+<img src="../images/architecture.svg" width="100%" alt="Platform Architecture">
 </p>
 
 <p align="center">
-<b>Figure 2.</b> Complete workflow of the Edviora AI-Powered School ERP Platform.
+<b>Figure 1.</b> High-level architecture of the Edviora platform.
 </p>
 
 ---
 
+# Platform Workflow
 
-#  Platform Layers
+<p align="center">
+<img src="../images/workflow.png" width="100%" alt="Platform Workflow">
+</p>
 
-| Component | Responsibility |
-|------------|----------------|
-|  Client Application | User Interface |
-|  Authentication | Secure Access Control |
-|  Academic Services | Attendance, Exams, Notes |
-|  Financial Services | Fees, Payroll, Billing |
-|  AI Services | AI Assistant & Study Hub |
-|  Communication | SMS, WhatsApp & Notifications |
-|  Analytics | Reports & Insights |
-|  Database | Secure Data Storage |
+<p align="center">
+<b>Figure 2.</b> End-to-end operational workflow of the Edviora platform.
+</p>
+# Platform Layers
 
----
+The Edviora platform is organized into multiple service layers that work together to deliver a secure, scalable, and intelligent institution management experience.
 
-
-
-## Security
-
-Security is built into every layer of the platform. Edviora follows modern authentication and authorization practices to protect user data and system resources.
-
-
-### Features
-
-- JWT-based authentication
-- Role-based access control (RBAC)
-- Secure password hashing
-- Protected API endpoints
-- Session management
-- Access control for protected resources
-- Activity and audit logging
-- Cloud-ready security architecture
-  
-
-#  Responsive Design
-
-Edviora works seamlessly across all devices.
-
-| Device | Supported |
-|----------|-----------|
-| 💻 Desktop | ✅ |
-| 🖥 Laptop | ✅ |
-| 📱 Mobile | ✅ |
-| 📲 Tablet | ✅ |
+| Layer | Responsibility |
+|--------|----------------|
+| Client Application | Responsive web interface for all stakeholders |
+| Authentication & Authorization | Secure identity management and access control |
+| Academic Services | Student lifecycle, attendance, curriculum, examinations |
+| Financial Services | Fees, payroll, billing, financial operations |
+| AI Services | Chanakya AI, intelligent recommendations, learning assistance |
+| Communication Services | SMS, WhatsApp, Email, notifications |
+| Analytics & Reporting | Dashboards, reports, institutional insights |
+| Data Platform | Secure storage and centralized information management |
 
 ---
 
-#  Platform Statistics
+# Core Platform Modules
 
-| Category | Coverage |
-|-----------|----------|
-| Modules | 25+ |
-| Dashboards | 6 |
-| AI Features | 5+ |
-| Reports | 20+ |
-| User Roles | 6 |
-| Cloud Ready | ✅ |
-| Responsive | ✅ |
+Edviora is built around modular services that simplify every aspect of educational institution management. Each module operates independently while integrating seamlessly across the platform.
 
 ---
 
----
+## Student Management
 
-## Core Platform Modules
+Centralized lifecycle management for student admission, academic records, parent relationships, identification, and archival.
 
-Edviora is organized into independent modules that cover the core operations of an educational institution. Each module is designed to work independently while integrating seamlessly with the rest of the platform.
-
----
-
-# 👨‍🎓 Student Management
-
-The Student Management module provides a centralized system for managing student information throughout the academic lifecycle, from admission to graduation.
-
-### Features
+**Capabilities**
 
 - Student Registration
-- Student Profile Management
+- Student Profiles
 - Digital Student Records
-- Student Scholar Register (SR)
-- Student Promotion
-- Academic History
+- Scholar Register (SR)
 - Parent & Guardian Linking
 - Medical Information
-- Blood Group Records
-- Document Management
-- QR Code Student ID Cards
-- Student Search & Filtering
+- QR Student ID Cards
+- Academic History
+- Student Promotion
 - Student Transfer
+- Document Management
 - Physical Growth Records
 - Student Archive
 
-### Student Workflow
+### Student Lifecycle
 
 ```mermaid
-flowchart LR
+flowchart TD
 
 Admission --> Registration
-
 Registration --> Verification
-
-Verification --> StudentDatabase
-
-StudentDatabase --> StudentProfile
-
-StudentProfile --> ParentLink
-
-StudentProfile --> IDCard
-
-StudentProfile --> AcademicHistory
-
-AcademicHistory --> Promotion
-
+Verification --> Student_Profile
+Student_Profile --> Parent_Linking
+Student_Profile --> Academic_Records
+Academic_Records --> Promotion
 Promotion --> Graduation
-
 Graduation --> Archive
 ```
 
-### Benefits
+---
 
-- Centralized student database
-- Digital student records
-- Faster admission and administration
-- Paperless document management
-- Quick search and retrieval
-- Improved data accuracy
+## Teacher Management
 
-#  Teacher Management
+Manage teaching staff, departmental assignments, attendance, scheduling, and institutional workforce operations through a unified administration portal.
 
-Manage teachers, departments, subjects, schedules, and classroom activities from one dashboard.
-
-### Features
+**Capabilities**
 
 - Teacher Registration
 - Subject Assignment
-- Class Assignment
 - Department Management
-- Teacher Attendance
-- Teacher Timetable
-- Performance Reports
+- Class Allocation
+- Attendance Management
+- Timetable Management
 - Leave Management
 - Salary Records
+- Performance Reports
 - Profile Management
 
 ---
 
-#  Attendance Management
+## Attendance Management
 
-A smart attendance system designed for accuracy and automation.
+A comprehensive attendance system designed to improve accuracy, reduce manual work, and provide real-time visibility into institutional attendance records.
 
-### Features
+**Capabilities**
 
 - Daily Attendance
 - Monthly Attendance
-- Bulk Attendance
 - QR Attendance
-- Attendance Reports
-- Late Entry Tracking
+- Bulk Attendance
+- Leave Management
 - Holiday Management
-- Leave Tracking
+- Late Entry Tracking
+- Attendance Reports
 - Attendance Analytics
 
 ### Attendance Workflow
 
 ```mermaid
-flowchart LR
+flowchart TD
 
-Teacher --> MarkAttendance
-
-MarkAttendance --> Database
-
-Database --> StudentRecord
-
-Database --> ParentNotification
-
-ParentNotification --> SMS
-
-ParentNotification --> WhatsApp
-
-Database --> Reports
+Teacher --> Mark_Attendance
+Mark_Attendance --> Attendance_Database
+Attendance_Database --> Student_Record
+Attendance_Database --> Reports
+Attendance_Database --> Parent_Notification
+Parent_Notification --> SMS
+Parent_Notification --> WhatsApp
 ```
 
 ---
 
-#  Academic Management
+## Academic Management
 
-Designed to simplify every academic operation.
+Manage academic operations from curriculum planning to classroom activities and AI-assisted learning resources.
 
-### Features
+**Capabilities**
 
 - Subject Management
-- Class Management
-- Section Management
+- Class & Section Management
 - Curriculum Registry
 - School Calendar
 - Notes Management
-- Study Guides
 - Homework
 - Assignments
+- Study Guides
 - AI Study Hub
-- AI Evaluations
+- AI Evaluation
 - Student Help Center
 
 ---
 
-#  Examination & Result Management
+## Examination & Result Management
 
-Automate examination planning and result generation.
+Digitize examination planning, grading, performance evaluation, and academic reporting.
 
-### Features
+**Capabilities**
 
 - Exam Scheduling
 - Marks Entry
 - Grade Calculation
-- Report Cards
-- Result Analysis
 - GPA Calculation
 - Rank Generation
+- Report Cards
 - Performance Tracking
+- Result Analytics
 
 ---
 
-#  Fee Management
+## Financial Management
 
-A complete financial management solution.
+Centralized financial services supporting student billing, payroll, institutional accounting, and financial reporting.
 
-### Features
+### Fee Management
+
+**Capabilities**
 
 - Fee Categories
 - Student Billing
 - Online Payments
-- Due Fee Tracking
 - Installment Management
+- Due Fee Tracking
 - Fee Receipts
 - Payment History
-- Bulk Fee CSV Upload
-- Automated Fee Reminders
 - Scholarship Management
+- Bulk CSV Upload
+- Automated Fee Reminders
 
----
-
-## Fee Workflow
+### Fee Workflow
 
 ```mermaid
 flowchart TD
 
-Student
-
-Student --> FeePortal
-
-FeePortal --> Payment
-
-Payment --> Database
-
-Database --> Receipt
-
-Receipt --> Parent
-
-Database --> Reports
+Student --> Fee_Portal
+Fee_Portal --> Payment
+Payment --> Finance_Database
+Finance_Database --> Receipt
+Finance_Database --> Parent
+Finance_Database --> Reports
 ```
 
----
+### Payroll Management
 
-#  Payroll Management
-
-Simplify employee salary processing.
-
-### Features
+**Capabilities**
 
 - Salary Generation
 - Payroll Processing
-- Employee Benefits
-- Deductions
+- Benefits Management
 - Salary Slips
 - Bonus Management
 - Tax Reports
+- Deductions
 
 ---
 
-#  Transport Management
+## Transport Management
 
-Manage vehicles, routes, and drivers efficiently.
+Digitally manage transportation resources, student routes, vehicle tracking, and driver operations.
 
-### Features
+**Capabilities**
 
 - Vehicle Management
 - Driver Management
@@ -439,11 +332,9 @@ Manage vehicles, routes, and drivers efficiently.
 - GPS Tracking
 - Pickup & Drop Monitoring
 - Transport Reports
+  # AI Workflow
 
----
-
-
-## AI Workflow
+Chanakya AI powers intelligent decision-making across the Edviora platform by processing user requests, retrieving relevant information, and generating context-aware responses.
 
 ```mermaid
 flowchart TD
@@ -479,74 +370,74 @@ M --> N
 
 ---
 
-#  Analytics Dashboard
+# Analytics & Reporting
 
-Transform institutional data into actionable insights.
+Transform institutional data into meaningful insights that improve operational efficiency and academic performance.
 
-### Features
+**Capabilities**
 
 - Attendance Analytics
-- Academic Performance
-- Fee Collection Reports
-- Payroll Reports
+- Academic Performance Reports
+- Financial Reports
+- Payroll Analytics
 - Transport Reports
 - Student Statistics
 - Teacher Performance
-- Institution Analytics
+- Institutional Insights
 
 ---
 
-#  Communication Center
+# Communication Center
 
-Keep everyone connected through intelligent notifications.
+Deliver real-time communication between administrators, teachers, students, and parents through integrated notification services.
 
-### Features
+**Capabilities**
 
 - SMS Notifications
-- WhatsApp Alerts
+- WhatsApp Notifications
 - Email Notifications
-- Parent Notifications
-- School Notices
-- Emergency Alerts
+- Parent Alerts
+- School Announcements
+- Emergency Notifications
 - Broadcast Messaging
 
 ---
 
-#  Timetable Management
+# Timetable Management
 
-Generate and manage institutional schedules.
+Automate schedule planning while reducing classroom and faculty conflicts.
 
-### Features
+**Capabilities**
 
 - Teacher Timetable
 - Student Timetable
 - Classroom Allocation
-- Conflict Detection
 - Automatic Scheduling
+- Conflict Detection
 - Timetable Export
 
 ---
 
-#  School Calendar
+# School Calendar
 
-Organize academic events throughout the year.
+Manage institutional events and academic schedules from a centralized calendar.
 
-### Features
+**Capabilities**
 
 - Holidays
+- Academic Sessions
 - Events
 - Examinations
 - Parent Meetings
-- Important Announcements
-- Academic Sessions
+- Announcements
 
 ---
 
-#  Authentication & Authorization
+# Authentication & Authorization
 
-A secure role-based access control system.
+Role-based authentication ensures secure access across every module of the platform while protecting institutional data.
 
-### User Roles
+**Supported Roles**
 
 - Administrator
 - Principal
@@ -556,48 +447,47 @@ A secure role-based access control system.
 - Accountant
 - Transport Manager
 
----
-
-## Authentication Flow
+### Authentication Flow
 
 ```mermaid
 flowchart TD
 
 Login
 
-Login --> VerifyUser
+Login --> Verify_User
 
-VerifyUser --> ValidatePassword
+Verify_User --> Validate_Credentials
 
-ValidatePassword --> JWT
+Validate_Credentials --> Generate_JWT
 
-JWT --> RoleCheck
+Generate_JWT --> Role_Authorization
 
-RoleCheck --> StudentDashboard
-
-RoleCheck --> TeacherDashboard
-
-RoleCheck --> ParentDashboard
-
-RoleCheck --> AdminDashboard
+Role_Authorization --> Administrator
+Role_Authorization --> Teacher
+Role_Authorization --> Student
+Role_Authorization --> Parent
 ```
 
 ---
-## Platform Capabilities
 
-| Category | Features |
-|----------|----------|
-| **Student Management** | Registration, Digital Records, Scholar Register, QR Student ID, Student Help Center |
-| **Academic Management** | Attendance, Curriculum Registry, Study Hub, Examination, Academic Reports |
-| **Administration** | Teacher Management, Parent Portal, Timetable, School Calendar |
-| **Finance** | Fee Management, Payroll |
-| **Communication** | Notifications, SMS Integration, WhatsApp Integration |
-| **Analytics** | Reports, Dashboard Analytics |
-| **Transportation** | Transport Management, GPS Tracking |
-| **Platform** | Multi-Tenant Support, Bulk CSV Import |
-| **Artificial Intelligence** | AI Assistant, Smart Learning, AI Recommendations |
+# Platform Capabilities
 
-# 🔄 Overall System Workflow
+| Domain | Services |
+|---------|----------|
+| Student Services | Registration, Profiles, Academic Records, QR Student ID |
+| Academic Services | Attendance, Curriculum, Examination, AI Study Hub |
+| Administration | Teacher Management, Timetable, School Calendar |
+| Financial Services | Fee Management, Payroll |
+| Communication | SMS, WhatsApp, Email Notifications |
+| Analytics | Reports, Dashboards, Institutional Insights |
+| Transportation | Vehicle & Route Management |
+| AI Services | Chanakya AI, Smart Recommendations, Learning Assistance |
+
+---
+
+# Overall System Workflow
+
+The following workflow illustrates how users interact with the platform and how core services operate together.
 
 ```mermaid
 flowchart TD
@@ -607,240 +497,233 @@ A[User Login]
 A --> B{Role}
 
 B --> C[Administrator]
-
 B --> D[Teacher]
-
 B --> E[Student]
-
 B --> F[Parent]
 
-C --> G[Dashboard]
-
+C --> G[Platform Dashboard]
 D --> G
-
 E --> G
-
 F --> G
 
-G --> H[Student Management]
-
+G --> H[Academic Services]
 G --> I[Attendance]
+G --> J[Financial Services]
+G --> K[AI Services]
+G --> L[Communication]
+G --> M[Analytics]
 
-G --> J[Academic Management]
-
-G --> K[Fee Management]
-
-G --> L[Payroll]
-
-G --> M[AI Assistant]
-
-G --> N[Reports]
-
-G --> O[Transport]
-
-G --> P[Analytics]
-
-H --> Database
-
-I --> Database
-
-J --> Database
-
-K --> Database
-
-L --> Database
-
-M --> Database
-
-N --> Database
-
-O --> Database
-
-P --> Database
+H --> N[(Central Database)]
+I --> N
+J --> N
+K --> N
+L --> N
+M --> N
 ```
 
 ---
 
----
+# Deployment Architecture
 
-
-
-## Deployment Architecture
+The deployment architecture illustrates how Edviora delivers secure, scalable, and cloud-native services across the institution.
 
 ```mermaid
 flowchart TD
 
-    Dev["Development Team"]
+Dev[Development Team]
 
-    Source["Source Control"]
+Repo[Source Control]
 
-    Pipeline["Continuous Integration & Deployment"]
+CI[Continuous Integration]
 
-    Web["Web Application"]
+Deploy[Deployment Pipeline]
 
-    API["Application Services"]
+Web[Web Application]
 
-    Auth["Identity & Access Management"]
+Auth[Identity & Access Management]
 
-    AI["Chanakya AI"]
+API[Application Services]
 
-    Data["Data Platform"]
+AI[Chanakya AI]
 
-    Notify["Notification Services"]
+Notify[Notification Services]
 
-    Users["Students • Teachers • Parents • Administrators"]
+Data[(Secure Data Platform)]
 
-    Dev --> Source
-    Source --> Pipeline
+Users[Students • Teachers • Parents • Administrators]
 
-    Pipeline --> Web
-    Pipeline --> API
+Dev --> Repo
+Repo --> CI
+CI --> Deploy
 
-    Users --> Web
-    Web --> Auth
-    Auth --> API
+Deploy --> Web
 
-    API --> Data
-    API --> AI
-    API --> Notify
+Users --> Web
+
+Web --> Auth
+
+Auth --> API
+
+API --> AI
+API --> Notify
+API --> Data
 ```
----
+# Application Gallery
 
-# 🖼️ Application Screenshots
+Explore the Edviora platform through key interfaces that demonstrate its user experience, administrative capabilities, and AI-powered workflows.
 
-## Dashboard
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### Dashboard
+
+<img src="../images/first.jpeg" width="100%" alt="Dashboard"/>
+
+</td>
+
+<td align="center" width="50%">
+
+### Student Management
+
+<img src="../images/second.jpeg" width="100%" alt="Student Management"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### Attendance Module
+
+<img src="../images/third.jpeg" width="100%" alt="Attendance Module"/>
+
+</td>
+
+<td align="center">
+
+### AI Assistant
+
+<img src="../images/forth.jpeg" width="100%" alt="AI Assistant"/>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="../images/first.jpeg" width="95%" alt="Dashboard">
+
+### Analytics Dashboard
+
+<img src="../images/five.jpeg" width="85%" alt="Analytics Dashboard"/>
+
 </p>
 
 ---
 
-## Student Management
+# Performance Goals
 
-<p align="center">
-  <img src="../images/second.jpeg" width="95%" alt="Student Management">
-</p>
+Edviora is designed to deliver responsive performance, high availability, and enterprise-grade reliability.
 
----
-
-## Attendance Module
-
-<p align="center">
-  <img src="../images/third.jpeg" width="95%" alt="Attendance Module">
-</p>
-
----
-
-## AI Assistant
-
-<p align="center">
-  <img src="../images/forth.jpeg" width="95%" alt="AI Assistant">
-</p>
-
----
-
-## Analytics Dashboard
-
-<p align="center">
-  <img src="../images/five.jpeg" width="95%" alt="Analytics Dashboard">
-</p>
----
-
-#  Performance Goals
-
-| Category | Target |
-|-----------|---------|
+| Metric | Target |
+|---------|--------|
 | Dashboard Load Time | < 2 seconds |
-| API Response | < 500 ms |
-| Uptime | 99.9% |
-| Security | Enterprise Grade |
+| API Response Time | < 500 ms |
+| Platform Availability | 99.9% |
+| Security Standard | Enterprise Grade |
 | Scalability | Multi-Institution |
 
 ---
 
-# 🛡️ Security
+# Security
 
-Edviora follows industry best practices.
+Security is integrated into every layer of the platform through modern authentication, authorization, and secure development practices.
 
-- JWT Authentication
-- Role-Based Access Control
-- Secure Password Hashing
-- Protected API Routes
-- Input Validation
-- Secure Session Management
-- Environment Variable Protection
-- Activity Logging
-- Cloud Deployment Ready
-
----
-
-
-#  Frequently Asked Questions
-
-### Is Edviora open source?
-
-The repository structure is public, while deployment and licensing depend on the project's chosen license.
-
-### Can multiple schools use Edviora?
-
-Yes. The architecture is designed to support multiple institutions.
-
-### Does Edviora support AI?
-
-Yes. AI features include assistance, recommendations, and intelligent workflows.
-
-### Is the application mobile-friendly?
-
-Yes. The UI is responsive across desktop, tablet, and mobile devices.
+| Security Feature | Description |
+|------------------|-------------|
+| JWT Authentication | Secure user authentication |
+| Role-Based Access Control | Permission-based access management |
+| Password Hashing | Secure credential protection |
+| Protected API Endpoints | Authorized resource access |
+| Session Management | Secure user sessions |
+| Input Validation | Protection against malicious requests |
+| Environment Variables | Secure configuration management |
+| Activity Logging | Audit trail for user actions |
 
 ---
 
-# 📞 Contact
+# Frequently Asked Questions
 
-🌐 **Website**  
-https://edviora.online/
+<details>
+<summary><strong>Is Edviora open source?</strong></summary>
 
-📧 **Email**  
-nabeel03103n@gmail.com
+The repository is publicly accessible for demonstration purposes. Licensing and deployment depend on the project's distribution model.
 
-🐙 **GitHub**  
-https://github.com/Edviora-Organization
+</details>
 
-💼 **LinkedIn**  
-https://www.linkedin.com/company/Edviora
+<details>
+<summary><strong>Can multiple institutions use Edviora?</strong></summary>
+
+Yes. The platform is designed with multi-institution support and centralized administration.
+
+</details>
+
+<details>
+<summary><strong>Does Edviora include AI capabilities?</strong></summary>
+
+Yes. Chanakya AI provides intelligent assistance, recommendations, workflow automation, and academic support.
+
+</details>
+
+<details>
+<summary><strong>Is the platform mobile responsive?</strong></summary>
+
+Yes. Edviora is optimized for desktop, laptop, tablet, and mobile devices.
+
+</details>
 
 ---
 
-# Chanakya AI
+# Contact
 
-Edviora is powered by **Chanakya AI**, an intelligent platform that enhances learning, administration, and decision-making across the Edviora ecosystem.
+| Platform | Information |
+|----------|-------------|
+| Website | https://edviora.online |
+| GitHub | https://github.com/Edviora-Organization |
+| LinkedIn | https://www.linkedin.com/company/edviora |
+| Email | nabeel03103n@gmail.com |
 
-### Capabilities
+---
+
+# Powered by Chanakya AI
+
+Edviora integrates **Chanakya AI** to enhance institutional management through intelligent automation, personalized assistance, and data-driven insights.
+
+### AI Capabilities
 
 - Conversational AI Assistant
 - Personalized Learning Support
-- AI-Powered Question Generation
-- Assignment & Evaluation Assistance
+- AI Question Generation
+- Assignment Assistance
 - Smart Recommendations
 - Report Generation
 - Study Planning
 - Academic Insights
 
-<p align="center">
-  <b>Powered By</b><br><br>
+<div align="center">
 
-  <b>Chanakya AI</b><br><br>
+### Chanakya AI
 
-  <b>Founded by</b> Nabeel Ali Khan<br>
-  🌐 <b>Website:</b> <a href="https://chanakyaai.in/">chanakyaai.in</a><br>
-  💻 <b>GitHub:</b> <a href="https://github.com/nabeelalikhan0">nabeelalikhan0</a>
-</p>
+Founded by **Nabeel Ali Khan**
 
-Integrated into Edviora to provide intelligent automation and AI-powered experiences for students, teachers, parents, and administrators.
+🌐 https://chanakyaai.in/
 
+💻 https://github.com/nabeelalikhan0
 
-# 📜 License
+</div>
+
+---
+
+# License
 
 Copyright © 2026 **Edviora**.
 
@@ -850,22 +733,16 @@ All rights reserved.
 
 <div align="center">
 
-# ⭐ Support the Project
+<img src="https://github.com/Edviora-Organization/.github/blob/main/logo.png" width="110" alt="Edviora Logo"/>
 
-If you found this project useful, consider giving it a **Star ⭐** on GitHub.
+## Edviora
 
-It helps the project grow and motivates future development.
+Building the future of educational institutions through cloud technology, artificial intelligence, and intelligent automation.
 
----
-
-<img src="https://github.com/Edviora-Organization/.github/blob/main/logo.png" width="120">
-
-## 🎓 Edviora
-
-### Empowering Education Through Technology & Artificial Intelligence
-
-**Built with ❤️ by the Edviora Team**
+**Made with ❤️ by the Edviora Team**
 
 🌐 https://edviora.online
+
+If you found this project useful, consider giving it a ⭐ on GitHub.
 
 </div>
