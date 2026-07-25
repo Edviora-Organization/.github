@@ -2,9 +2,11 @@
 
 <img src="https://github.com/Edviora-Organization/.github/blob/main/logo.png" width="170"/>
 
-# 🎓 Edviora
+<h1 align="center">🎓 Edviora</h1>
 
-### AI-Powered School ERP & Institution Management Platform
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&width=900&lines=AI-Powered+School+ERP;Institution+Management+Platform;Built+for+Modern+Educational+Institutions" alt="Typing SVG" />
+</p>
 
 <p align="center">
 An intelligent cloud-based ERP platform designed to transform educational institutions through automation, AI, analytics, and seamless collaboration.
@@ -57,46 +59,31 @@ Core principles:
 - Modern User Experience
 - Intelligent Automation
 
-## Core Modules
+Overview
+Vision
+Architecture
+Workflow
+Technology Stack
 
-### Academic
+Platform Capabilities
 
-- Student Information System
-- Attendance Management
-- Curriculum Management
-- Report Cards
-- Learning Resources
-- AI Study Hub
+ Academic Services
+Student Information • Attendance • Curriculum • Report Cards • AI Study Hub
 
-### Finance
+ Financial Services
+Fee Management • Payroll • Billing • Financial Reports
 
-- Fee Management
-- Payroll
-- Salary Records
-- Billing
-- Payment Tracking
-- Financial Reports
+ AI & Intelligence
+Chanakya AI • AI Assistant • Recommendations • Analytics
 
-### Artificial Intelligence
+ Administration
+Teacher Management • Multi-School • Timetable • Transport • Notifications
 
-- AI Assistant
-- AI Study Support
-- Smart Recommendations
-- Automated Evaluations
-- Learning Analytics
+Security
+Deployment
+Getting Started
 
-### Administration
-
-- Multi-School Management
-- Teacher Management
-- Timetable Scheduling
-- Transport Management
-- Notifications
-- Operational Analytics
-  
----
-
-# 🎯 Why Choose Edviora?
+#  Why Choose Edviora?
 
 ✅ Modern Dashboard
 
@@ -124,7 +111,7 @@ Core principles:
 
 ---
 
-# 👥 User Roles
+#  User Roles
 
 Edviora provides customized dashboards and permissions for every stakeholder.
 
@@ -475,6 +462,8 @@ Edviora is powered by **Chanakya AI**, an intelligent platform that enhances lea
 **Chanakya AI**
 
 Founded by **Nabeel Ali Khan**
+Owner's Website: https://chanakyaai.in/
+Owner's Github: https://github.com/nabeelalikhan0
 
 Integrated into Edviora to provide intelligent automation and AI-powered experiences for students, teachers, parents, and administrators.
 
@@ -882,7 +871,7 @@ Yes. The UI is responsive across desktop, tablet, and mobile devices.
 # 📞 Contact
 
 🌐 **Website**  
-https://edviora.online
+https://edviora.online/
 
 📧 **Email**  
 nabeel03103n@gmail.com
@@ -891,11 +880,11 @@ nabeel03103n@gmail.com
 https://github.com/Edviora-Organization
 
 💼 **LinkedIn**  
-https://www.linkedin.com/company/edviora
+https://www.linkedin.com/company/Edviora
 
 ---
 
-# 🤖 Edviora AI
+#  Edviora AI
 
 **Edviora AI** is the intelligent assistant powering the Edviora ecosystem. It helps students, teachers, parents, and administrators by providing smart academic support, instant answers, automation, analytics, and personalized recommendations.
 
