@@ -190,139 +190,25 @@ Edviora provides customized dashboards and permissions for every stakeholder.
 
 ---
 
-# 🏗 Technology Stack
 
-<table>
+# 🧩 Platform Layers
 
-<tr>
-
-<th>Category</th>
-
-<th>Technology</th>
-
-</tr>
-
-<tr>
-
-<td>Frontend</td>
-
-<td>
-
-React.js
-
-Tailwind CSS
-
-JavaScript
-
-HTML5
-
-CSS3
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>Backend</td>
-
-<td>
-
-Node.js
-
-Express.js
-
-REST APIs
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>Database</td>
-
-<td>
-
-MongoDB
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>Authentication</td>
-
-<td>
-
-JWT
-
-Role Based Access
-
-Secure Sessions
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>AI Integration</td>
-
-<td>
-
-OpenAI APIs
-
-AI Chat Assistant
-
-AI Evaluation
-
-Smart Recommendations
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>Communication</td>
-
-<td>
-
-SMS
-
-WhatsApp
-
-Email Notifications
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>Cloud</td>
-
-<td>
-
-Cloud Hosting
-
-CDN
-
-Secure Storage
-
-</td>
-
-</tr>
-
-</table>
+| Component | Responsibility |
+|------------|----------------|
+| 🌐 Client Application | User Interface |
+| 🔐 Authentication | Secure Access Control |
+| 📚 Academic Services | Attendance, Exams, Notes |
+| 💰 Financial Services | Fees, Payroll, Billing |
+| 🤖 AI Services | AI Assistant & Study Hub |
+| 📢 Communication | SMS, WhatsApp & Notifications |
+| 📊 Analytics | Reports & Insights |
+| 🗄️ Database | Secure Data Storage |
 
 ---
 
 # 📂 Project Structure
 
-```text
+
 Edviora
 │
 ├── client/
@@ -853,145 +739,7 @@ P --> Database
 
 ---
 
-# ⚙️ Installation Guide
 
-## 📋 Prerequisites
-
-Before setting up Edviora, ensure the following are installed:
-
-- Node.js (v18 or above)
-- npm / yarn
-- MongoDB
-- Git
-
----
-
-## 📥 Clone Repository
-
-```bash
-git clone https://github.com/Edviora-Organization/Edviora.git
-
-cd Edviora
-```
-
----
-
-## 📦 Install Dependencies
-
-### Frontend
-
-```bash
-cd client
-npm install
-```
-
-### Backend
-
-```bash
-cd ../server
-npm install
-```
-
----
-
-## ▶️ Start Development Server
-
-### Backend
-
-```bash
-npm run dev
-```
-
-### Frontend
-
-```bash
-npm run dev
-```
-
----
-
-# 🌍 Environment Variables
-
-Create a `.env` file inside the **server** directory.
-
-```env
-PORT=5000
-
-MONGODB_URI=your_mongodb_connection
-
-JWT_SECRET=your_secret_key
-
-CLIENT_URL=http://localhost:5173
-
-OPENAI_API_KEY=your_openai_api_key
-
-EMAIL_USER=your_email
-
-EMAIL_PASSWORD=your_password
-
-TWILIO_ACCOUNT_SID=your_sid
-
-TWILIO_AUTH_TOKEN=your_token
-
-TWILIO_PHONE_NUMBER=your_phone
-
-WHATSAPP_API_KEY=your_whatsapp_key
-```
-
-> ⚠️ Never commit your `.env` file to GitHub.
-
----
-
-# 📡 API Overview
-
-## Authentication
-
-| Method | Endpoint |
-|---------|----------|
-| POST | `/api/auth/login` |
-| POST | `/api/auth/register` |
-| POST | `/api/auth/logout` |
-| GET | `/api/auth/profile` |
-
----
-
-## Student
-
-| Method | Endpoint |
-|---------|----------|
-| GET | `/api/students` |
-| POST | `/api/students` |
-| PUT | `/api/students/:id` |
-| DELETE | `/api/students/:id` |
-
----
-
-## Attendance
-
-| Method | Endpoint |
-|---------|----------|
-| GET | `/api/attendance` |
-| POST | `/api/attendance` |
-
----
-
-## Fees
-
-| Method | Endpoint |
-|---------|----------|
-| GET | `/api/fees` |
-| POST | `/api/fees/pay` |
-
----
-
-## Reports
-
-| Method | Endpoint |
-|---------|----------|
-| GET | `/api/reports` |
-| GET | `/api/analytics` |
-
----
 
 # ☁️ Deployment Architecture
 
@@ -1135,35 +883,7 @@ Edviora follows industry best practices.
 
 ---
 
-# 🤝 Contributing
 
-We welcome contributions from developers around the world.
-
-## Steps
-
-1. Fork this repository
-
-2. Create a new feature branch
-
-```bash
-git checkout -b feature/new-feature
-```
-
-3. Commit your changes
-
-```bash
-git commit -m "Add new feature"
-```
-
-4. Push the branch
-
-```bash
-git push origin feature/new-feature
-```
-
-5. Open a Pull Request.
-
----
 
 # 📝 Coding Standards
 
@@ -1197,19 +917,34 @@ Yes. The UI is responsive across desktop, tablet, and mobile devices.
 
 # 📞 Contact
 
-🌐 Website
-
+🌐 **Website**  
 https://edviora.online
 
-📧 Email
+📧 **Email**  
+nabeel03103n@gmail.com
 
-contact@edviora.online
-
-🐙 GitHub
-
+🐙 **GitHub**  
 https://github.com/Edviora-Organization
 
+💼 **LinkedIn**  
+https://www.linkedin.com/company/edviora
+
 ---
+
+# 🤖 Edviora AI
+
+**Edviora AI** is the intelligent assistant powering the Edviora ecosystem. It helps students, teachers, parents, and administrators by providing smart academic support, instant answers, automation, analytics, and personalized recommendations.
+
+### 🚀 Features
+- 🧠 AI Academic Assistant
+- 📚 Smart Learning Support
+- 💬 AI Chatbot
+- 📊 AI-Powered Analytics
+- ⚡ Instant Query Resolution
+- 🎯 Personalized Recommendations
+
+🔗 **Launch Edviora AI**  
+https://ai.edviora.online
 
 # 📜 License
 
