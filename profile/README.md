@@ -1,7 +1,7 @@
 # 🎓 Edviora
 
 <p align="center">
-  <img src="https://edviora.online/logo.png" alt="Edviora Logo" width="150">
+  <img src="[https://edviora.online/logo.png](https://github.com/Edviora-Organization/.github/blob/main/logo.png)" alt="Edviora Logo" width="150">
 </p>
 
 <p align="center">
