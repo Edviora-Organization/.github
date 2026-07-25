@@ -568,56 +568,88 @@ API --> AI
 API --> Notify
 API --> Data
 ```
-# Application Gallery
+# 🖼️ Application Gallery
 
 Explore the Edviora platform through key interfaces that demonstrate its user experience, administrative capabilities, and AI-powered workflows.
 
-<table align="center">
+<br>
+
+<table align="center" width="100%">
 <tr>
-<td align="center" width="50%">
+
+<td width="50%" align="center" valign="top">
 
 ### Dashboard
 
-<img src="../images/first.jpeg" width="100%" alt="Dashboard"/>
+<a href="../images/first.jpeg">
+<img src="../images/first.jpeg"
+alt="Dashboard"
+width="100%">
+</a>
 
 </td>
 
-<td align="center" width="50%">
+<td width="50%" align="center" valign="top">
 
 ### Student Management
 
-<img src="../images/second.jpeg" width="100%" alt="Student Management"/>
+<a href="../images/second.jpeg">
+<img src="../images/second.jpeg"
+alt="Student Management"
+width="100%">
+</a>
 
 </td>
+
 </tr>
 
 <tr>
-<td align="center">
+
+<td width="50%" align="center" valign="top">
 
 ### Attendance Module
 
-<img src="../images/third.jpeg" width="100%" alt="Attendance Module"/>
+<a href="../images/third.jpeg">
+<img src="../images/third.jpeg"
+alt="Attendance Module"
+width="100%">
+</a>
 
 </td>
 
-<td align="center">
+<td width="50%" align="center" valign="top">
 
 ### AI Assistant
 
-<img src="../images/forth.jpeg" width="100%" alt="AI Assistant"/>
+<a href="../images/forth.jpeg">
+<img src="../images/forth.jpeg"
+alt="AI Assistant"
+width="100%">
+</a>
 
 </td>
+
 </tr>
+
 </table>
 
-<p align="center">
+<br>
+
+<div align="center">
 
 ### Analytics Dashboard
 
-<img src="../images/five.jpeg" width="85%" alt="Analytics Dashboard"/>
+<a href="../images/five.jpeg">
+<img src="../images/five.jpeg"
+alt="Analytics Dashboard"
+width="88%">
+</a>
 
+</div>
+
+<p align="center">
+<i>Click any screenshot to view it in full resolution.</i>
 </p>
-
 ---
 
 # Performance Goals
