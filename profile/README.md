@@ -53,6 +53,8 @@ Website: https://edviora.online
 
 Email: contact@edviora.online
 
+changed by rehan
+
 ---
 
 © 2026 Edviora. All Rights Reserved.
