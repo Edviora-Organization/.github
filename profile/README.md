@@ -173,10 +173,8 @@ Edviora provides customized dashboards and permissions for every stakeholder.
 ## 🏗 Platform Architecture
 
 <p align="center">
-  <img src="./docs/images/architecture.svg" width="100%">
+  <img src="../images/architecture.svg" alt="Edviora Platform Architecture" width="100%">
 </p>
-
----
 
 # ⚙ Platform Workflow
 
