@@ -170,10 +170,10 @@ Edviora provides customized dashboards and permissions for every stakeholder.
 
 > Replace the image below with your architecture diagram.
 
+## 🏗 Platform Architecture
+
 <p align="center">
-
-<img src="./docs/images/architecture.svg" width="100%">
-
+  <img src="./docs/images/architecture.svg" width="100%">
 </p>
 
 ---
