@@ -711,7 +711,7 @@ flowchart TD
 ## Dashboard
 
 <p align="center">
-  <img src="./docs/images/first.jpeg" width="95%" alt="Dashboard">
+  <img src="./.github/images/first.jpeg" width="95%" alt="Dashboard">
 </p>
 
 ---
@@ -719,7 +719,7 @@ flowchart TD
 ## Student Management
 
 <p align="center">
-  <img src="./docs/images/second.jpeg" width="95%" alt="Student Management">
+  <img src="./.github/images/second.jpeg" width="95%" alt="Student Management">
 </p>
 
 ---
@@ -727,7 +727,7 @@ flowchart TD
 ## Attendance Module
 
 <p align="center">
-  <img src="./docs/images/third.jpeg" width="95%" alt="Attendance Module">
+  <img src="./.github/images/third.jpeg" width="95%" alt="Attendance Module">
 </p>
 
 ---
@@ -735,7 +735,7 @@ flowchart TD
 ## AI Assistant
 
 <p align="center">
-  <img src="./docs/images/forth.jpeg" width="95%" alt="AI Assistant">
+  <img src="./.github/images/forth.jpeg" width="95%" alt="AI Assistant">
 </p>
 
 ---
@@ -743,9 +743,8 @@ flowchart TD
 ## Analytics Dashboard
 
 <p align="center">
-  <img src="./docs/images/five.jpeg" width="95%" alt="Analytics Dashboard">
+  <img src="./.github/images/five.jpeg" width="95%" alt="Analytics Dashboard">
 </p>
-
 ---
 
 #  Performance Goals
