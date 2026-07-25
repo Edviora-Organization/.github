@@ -172,7 +172,7 @@ Edviora provides customized dashboards and permissions for every stakeholder.
 
 <p align="center">
 
-<img src="./docs/images/architecture.svg" width="100%">
+<img src="./docs/images/architecture.png" width="100%">
 
 </p>
 
