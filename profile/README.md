@@ -148,18 +148,18 @@ Edviora provides customized dashboards and permissions for every stakeholder.
 ---
 
 
-# 🧩 Platform Layers
+#  Platform Layers
 
 | Component | Responsibility |
 |------------|----------------|
-| 🌐 Client Application | User Interface |
-| 🔐 Authentication | Secure Access Control |
-| 📚 Academic Services | Attendance, Exams, Notes |
-| 💰 Financial Services | Fees, Payroll, Billing |
-| 🤖 AI Services | AI Assistant & Study Hub |
-| 📢 Communication | SMS, WhatsApp & Notifications |
-| 📊 Analytics | Reports & Insights |
-| 🗄️ Database | Secure Data Storage |
+|  Client Application | User Interface |
+|  Authentication | Secure Access Control |
+|  Academic Services | Attendance, Exams, Notes |
+|  Financial Services | Fees, Payroll, Billing |
+|  AI Services | AI Assistant & Study Hub |
+|  Communication | SMS, WhatsApp & Notifications |
+|  Analytics | Reports & Insights |
+|  Database | Secure Data Storage |
 
 ---
 
@@ -293,7 +293,7 @@ Manage teachers, departments, subjects, schedules, and classroom activities from
 
 ---
 
-# 📅 Attendance Management
+#  Attendance Management
 
 A smart attendance system designed for accuracy and automation.
 
@@ -442,55 +442,39 @@ Manage vehicles, routes, and drivers efficiently.
 
 ---
 
-# Chanakya AI
-
-Edviora is powered by **Chanakya AI**, an intelligent platform that enhances learning, administration, and decision-making across the Edviora ecosystem.
-
-### Capabilities
-
-- Conversational AI Assistant
-- Personalized Learning Support
-- AI-Powered Question Generation
-- Assignment & Evaluation Assistance
-- Smart Recommendations
-- Report Generation
-- Study Planning
-- Academic Insights
-
-### Powered By
-
-**Chanakya AI**
-
-Founded by **Nabeel Ali Khan**
-Owner's Website: https://chanakyaai.in/
-Owner's Github: https://github.com/nabeelalikhan0
-
-Integrated into Edviora to provide intelligent automation and AI-powered experiences for students, teachers, parents, and administrators.
 
 ## AI Workflow
 
 ```mermaid
-flowchart LR
+flowchart TD
 
-Admission --> Registration
+A[Student • Teacher • Parent • Administrator]
 
-Registration --> Enrollment
+A --> B[Submit Request]
 
-Enrollment --> StudentProfile
+B --> C{Request Type}
 
-StudentProfile --> AcademicRecords
+C -->|Academic| D[Learning Assistance]
+C -->|Administrative| E[ERP Operations]
+C -->|Analytics| F[Data Insights]
+C -->|Support| G[Help Center]
 
-AcademicRecords --> Attendance
+D --> H[Chanakya AI Engine]
+E --> H
+F --> H
+G --> H
 
-Attendance --> Examination
+H --> I[Knowledge Retrieval]
 
-Examination --> Promotion
+I --> J[Response Generation]
 
-Promotion --> Graduation
+J --> K[Smart Recommendations]
+J --> L[Reports & Analytics]
+J --> M[Notifications]
 
-Graduation --> Alumni
-
-Alumni --> Archive
+K --> N[Interaction Complete]
+L --> N
+M --> N
 ```
 
 ---
@@ -727,7 +711,7 @@ flowchart TD
 ## Dashboard
 
 <p align="center">
-<img src="./docs/images/dashboard.png" width="95%">
+  <img src="./docs/images/first image.jpeg" width="95%" alt="Dashboard">
 </p>
 
 ---
@@ -735,7 +719,7 @@ flowchart TD
 ## Student Management
 
 <p align="center">
-<img src="./docs/images/student-management.png" width="95%">
+  <img src="./docs/images/second image.jpeg" width="95%" alt="Student Management">
 </p>
 
 ---
@@ -743,15 +727,7 @@ flowchart TD
 ## Attendance Module
 
 <p align="center">
-<img src="./docs/images/attendance.png" width="95%">
-</p>
-
----
-
-## Fee Management
-
-<p align="center">
-<img src="./docs/images/fees.png" width="95%">
+  <img src="./docs/images/third image.jpeg" width="95%" alt="Attendance Module">
 </p>
 
 ---
@@ -759,7 +735,7 @@ flowchart TD
 ## AI Assistant
 
 <p align="center">
-<img src="./docs/images/ai-assistant.png" width="95%">
+  <img src="./docs/images/forth image.jpeg" width="95%" alt="AI Assistant">
 </p>
 
 ---
@@ -767,7 +743,7 @@ flowchart TD
 ## Analytics Dashboard
 
 <p align="center">
-<img src="./docs/images/analytics.png" width="95%">
+  <img src="./docs/images/five image.jpeg" width="95%" alt="Analytics Dashboard">
 </p>
 
 ---
@@ -781,42 +757,6 @@ flowchart TD
 | Uptime | 99.9% |
 | Security | Enterprise Grade |
 | Scalability | Multi-Institution |
-
----
-
-# 🛣️ Product Roadmap
-
-## Phase 1
-
-- ✅ Student Management
-- ✅ Attendance
-- ✅ Fees
-- ✅ Reports
-- ✅ Teacher Management
-- ✅ Timetable
-
----
-
-## Phase 2
-
-- ✅ AI Assistant
-- ✅ Study Hub
-- ✅ QR Student ID
-- ✅ Notifications
-- ✅ Payroll
-
----
-
-## Phase 3
-
-- 🔄 Mobile Application
-- 🔄 Online Examination
-- 🔄 Digital Library
-- 🔄 Parent Mobile App
-- 🔄 AI Voice Assistant
-- 🔄 Video Classroom
-- 🔄 Inventory Management
-- 🔄 Hostel Management
 
 ---
 
@@ -836,17 +776,6 @@ Edviora follows industry best practices.
 
 ---
 
-
-
-#  Coding Standards
-
-- Follow clean architecture
-- Write reusable components
-- Use meaningful commit messages
-- Write clean documentation
-- Test before creating a Pull Request
-
----
 
 #  Frequently Asked Questions
 
@@ -884,20 +813,33 @@ https://www.linkedin.com/company/Edviora
 
 ---
 
-#  Edviora AI
+# Chanakya AI
 
-**Edviora AI** is the intelligent assistant powering the Edviora ecosystem. It helps students, teachers, parents, and administrators by providing smart academic support, instant answers, automation, analytics, and personalized recommendations.
+Edviora is powered by **Chanakya AI**, an intelligent platform that enhances learning, administration, and decision-making across the Edviora ecosystem.
 
-### 🚀 Features
-- 🧠 AI Academic Assistant
-- 📚 Smart Learning Support
-- 💬 AI Chatbot
-- 📊 AI-Powered Analytics
-- ⚡ Instant Query Resolution
-- 🎯 Personalized Recommendations
+### Capabilities
 
-🔗 **Launch Edviora AI**  
-https://ai.edviora.online
+- Conversational AI Assistant
+- Personalized Learning Support
+- AI-Powered Question Generation
+- Assignment & Evaluation Assistance
+- Smart Recommendations
+- Report Generation
+- Study Planning
+- Academic Insights
+
+<p align="center">
+  <b>Powered By</b><br><br>
+
+  <b>Chanakya AI</b><br><br>
+
+  <b>Founded by</b> Nabeel Ali Khan<br>
+  🌐 <b>Website:</b> <a href="https://chanakyaai.in/">chanakyaai.in</a><br>
+  💻 <b>GitHub:</b> <a href="https://github.com/nabeelalikhan0">nabeelalikhan0</a>
+</p>
+
+Integrated into Edviora to provide intelligent automation and AI-powered experiences for students, teachers, parents, and administrators.
+
 
 # 📜 License
 
