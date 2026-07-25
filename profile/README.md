@@ -176,31 +176,17 @@ Edviora provides customized dashboards and permissions for every stakeholder.
   <img src="../images/architecture.svg" alt="Edviora Platform Architecture" width="100%">
 </p>
 
-# ⚙ Platform Workflow
+## ⚙️ Platform Workflow
 
-```text
-                    Users
-                       │
-      ┌────────────────┼────────────────┐
-      │                │                │
-  Students         Teachers         Parents
-      │                │                │
-      └────────────────┼────────────────┘
-                       │
-             Authentication System
-                       │
-               Role Verification
-                       │
-                Edviora Dashboard
-                       │
-       ┌───────────────┼───────────────┐
-       │               │               │
- Academics         Finance        Administration
-       │               │               │
- AI Assistant      Payroll      Analytics
-       │               │               │
-             Secure Cloud Database
-```
+<p align="center">
+  <img src="../images/workflow.png"
+       alt="Edviora Platform Workflow"
+       width="100%">
+</p>
+
+<p align="center">
+<b>Figure 2.</b> Complete workflow of the Edviora AI-Powered School ERP Platform.
+</p>
 
 ---
 
